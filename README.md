@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=210&fontAlignY=37&section=header&text=MIN%20CHEOL&animation=fadeIn)
   
-## 안녕하세요! 프론트앤드 개발자 신민철입니다.
+## 안녕하세요! 프론트엔드 개발자 신민철입니다.
 
 ### ✨ Front-end Stack ✨
 
